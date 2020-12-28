@@ -1,0 +1,10 @@
+{
+  "name": "MVC-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kai <1114366961@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
